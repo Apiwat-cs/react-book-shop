@@ -7,3 +7,5 @@
 
 ## Deploy โปรเจ็ค บน Netlify
 
+lighthearted-sable-d66d2c.netlify.app
+
